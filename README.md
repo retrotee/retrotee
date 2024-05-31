@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @retrotee
+- 👀 I’m interested in Python and Minecraft
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am from germany!
