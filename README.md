@@ -1,8 +1,7 @@
-# 👋 Hi, I’m @retrotee
+# 👋 Hey, I’m @retrotee
 
-## About Me
-- **Interests:** 🐍 Python, 🎮 Minecraft, 🎶 Geometry Dash, and 🚗 Cars
-- **Favorite Cars:** 🚀 Apollo Intensa Emozione and 🏎️ Apollo Gumpert
-- **What I Code:** 🤖 AIs, ⚙️ automations, and more!
-- **Pronouns:** 🧑 He/Him
-- **Fun Fact:** 🌍 I am from Germany 🇩🇪
+## 🚀 About Me
+
+* 🧠 **Into:** Go, Python, Cars, AI, and all things code
+* 💻 **I Build:** Smart AIs, slick automations, and whatever else I dream up
+* 🙋‍♂️ **Pronouns:** He/Him
